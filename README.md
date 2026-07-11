@@ -1,16 +1,21 @@
-## Hi there 👋
+# Xiantao Cai
 
-<!--
-**cxtao666/cxtao666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack engineer building AI collaboration tools for global teams.
 
-Here are some ideas to get you started:
+I work across React, TypeScript, Next.js, NestJS, Socket.IO, Yjs, WebRTC, and AI product workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Building
+
+- **Connexa** - a private AI collaboration workspace for distributed teams: in-context translation, async catch-up, shared docs, meetings, and an account-aware assistant.
+- **OpenChat platform** - web, backend, mobile, admin, and product landing systems.
+
+## What I Care About
+
+- Making AI features reliable, observable, and recoverable
+- Real-time collaboration and cross-time-zone communication
+- Building useful systems in public, one iteration at a time
+
+## Find Me
+
+- [X](https://x.com/caixiantao)
+- [YouTube](https://www.youtube.com/@cxtao666)
